@@ -3,7 +3,7 @@
  */
 var project_info  = function () {
 
-//        当前活动标签
+//  当前活动标签
   var current = 1;
 
   display($('#rotmenu li:first'));
